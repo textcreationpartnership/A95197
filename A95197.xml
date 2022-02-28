@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the daily proceedings and transactions of the Army in Scotland under his Excellency the Lord Gen. Cromwell. / Certified by letters from the Head-quarters at Stonehill in Scotland, Aug. 23. And published by authority.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95197</idno>
+            <idno type="STC">Wing T2941</idno>
+            <idno type="STC">Thomason E610_8</idno>
+            <idno type="STC">ESTC R206337</idno>
+            <idno type="EEBO-CITATION">99865509</idno>
+            <idno type="PROQUEST">99865509</idno>
+            <idno type="VID">165720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165720)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E610[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the daily proceedings and transactions of the Army in Scotland under his Excellency the Lord Gen. Cromwell. / Certified by letters from the Head-quarters at Stonehill in Scotland, Aug. 23. And published by authority.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Aug: 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165720:1" rendition="simple:additions"/>
+            <p>A True RELATION OF THE DAILY PROCEEDINGS AND TRANSACTIONS OF THE Army in Scotland Under his Excellency The Lord Gen. CROMWELL.</p>
+            <p>Certified by Letters from the Head-quarters at <hi>Stonehill</hi> in <hi>Scotland,</hi> Aug. 23.</p>
+            <p>And publiſhed by Authority.</p>
+            <p>LONDON, Printed by <hi>E. G.</hi> in the Old-baily. <add>Aug: 30<hi rend="sup">th</hi>
+               </add> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:165720:2"/>
+            <pb facs="tcp:165720:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my laſt I told you of our marching backe to <hi>Muſlebo<g ref="char:EOLhyphen"/>rough,</hi> where we ſtayd Thurſ<g ref="char:EOLhyphen"/>day night, Friday, and Satur<g ref="char:EOLhyphen"/>day, taking in proviſions; and on Sunday the 17 mar<g ref="char:EOLhyphen"/>ched backe to our old Quarters on <hi>Pencland hills.</hi>
+            </p>
+            <p>Whilſt we ſtayd at <hi>Musleborough</hi> Fields Orders were given for the poſſeſſing and fortifying of two Houſes, one belonging to Mr. <hi>Hamilton,</hi> who with his man were guides to that party that fell ſo deſperately into our quarters in <hi>Musleborough,</hi> and both kild on each ſide the Houſe. The other was a Frontier to <hi>Dalketh,</hi> and another Gariſon formerly kept by our Dragoons neere <hi>Eden<g ref="char:EOLhyphen"/>borough</hi> (but quitted.) The former (being neer the Waterſide) is intended as a Maga<g ref="char:EOLhyphen"/>zine for proviſions for the Army, in it there are 140 Foot commanded by Cap. <hi>Hughes,</hi>
+               <pb facs="tcp:165720:3"/>one of Col. <hi>Fenwickes</hi> Captaines, and forty Horſe under Lieut. <hi>Wilkinſon</hi> of Col <hi>Lilburns</hi> Regiment, and twenty Dragoons: and the latter to ſecure the paſſages betweene the Garriſon and the Army, it being in the mid<g ref="char:EOLhyphen"/>way betweene both: in it there is a party commanded by Cap. <hi>Webb</hi> of Col <hi>Malliveres</hi> Regiment. We had intelligence of the kil<g ref="char:EOLhyphen"/>ling two of our Foot ſouldiers that went to ſeek proviſions in the Country, beſides one of Col. <hi>Daniels</hi> that was kild by ſome of the enemies Horſe adventring too far into their quarters towards <hi>Edenburgh</hi> when the Army was encampt on Pencland Hils.</p>
+            <p>In the Armies march from about <hi>Muſlebo<g ref="char:EOLhyphen"/>rough</hi> to <hi>Pencland</hi> Hils the Enemy drew out ſeverall bodies of Horſe which faced us in the way, but came to no engagement; they alſo fired at our men out of ſeverall Houſes which they had Gariſond in the way. At his Excellencies comming up on the hils he ſent two Troops of Dragoons to poſſeſſe Collin<g ref="char:EOLhyphen"/>ton houſe, which is a very ſtrong Houſe with<g ref="char:EOLhyphen"/>in halfe a mile of <hi>Redhouſe</hi> (a Garriſon of the enemies) which annoyed our men upon their former march thither.</p>
+            <pb facs="tcp:165720:3"/>
+            <p> A Sergeant of Col. <hi>Coxes</hi> Regiment was ex<g ref="char:EOLhyphen"/>ecuted on a Gallows on <hi>Pencland hils,</hi> though there was no Tree to hang him on, for being preſent with ſome Souldiers of that Regi<g ref="char:EOLhyphen"/>ment when they plundered a Houſe, and him<g ref="char:EOLhyphen"/>ſelfe took away a Cloke: and ſo tender is his Lordſhip of any injury to be done to the Country, that he renders good for evil: there were three Souldiers condemned with him, but his Excellencies mercy was extended to<g ref="char:EOLhyphen"/>wards them, and a pardon brought them im<g ref="char:EOLhyphen"/>mediately after the execution of the other.</p>
+            <p>In the meane time ſeverall great bodies of the enemies Horſe, to the number of 2 or 3000 were drawne out on the Weſt ſide of <hi>Edenburgh</hi> betweene the River <hi>Lieth</hi> and the Sea, and having an advantage of a paſſe over the River (which they ſuppoſed our deſigne was to take) ſeverall parties of theirs came and pickeerd in the ſight of our Army, but upon the drawing up of our parties, retreated back. His Excellency in perſon drew out a forlorn and went before them; when he came neer them one of them fired a Carbine, upon which his Excellency calld to him, and ſaid, if he had been one of his Souldiers he would
+<pb facs="tcp:165720:4"/>have caſhierd him for firing at ſuch a diſtance, whereupon he that fired having formerly ſer<g ref="char:EOLhyphen"/>ved L.G. <hi>Lesly,</hi> comming up told him he was <hi>Cromwell</hi> himſelfe, and that he had ſeen him in Yorkſhire with his Maſter.</p>
+            <p>There are 39 of the Runawaies that went from the army brought priſoners by Sea from <hi>Barwick,</hi> where they were apprehended by Col. <hi>Fenwick</hi> the Governour, more are com<g ref="char:EOLhyphen"/>ming, &amp; ſome of them wil be made exempla<g ref="char:EOLhyphen"/>ry, 27 of thoſe already brought were Mon<g ref="char:EOLhyphen"/>day <hi>Aug.</hi> 19. condemned at a Court-martial.</p>
+            <p>Divers women and others get away by night from <hi>Lieth</hi> by Land and water, and ſteal back into the Country: by which we perceive they are in ſome ſtraights for want of proviſion: We wonder to ſee ſuch a falſe relation prin<g ref="char:EOLhyphen"/>ted as goes under the name of one Mr. <hi>Brookes</hi> at the Angel in <hi>Cornhill,</hi> Numb. 3. wherein he relates the taking of <hi>Leith,</hi> which if it were done our worke were ſoon at an end, it being the moſt conſiderable place, and the onely conſiderable Port town in <hi>Scotland:</hi> certainly none in the Army would mention ſuch a fi<g ref="char:EOLhyphen"/>ction, when we ſee the Enemy in it every day. Tueſday <hi>Aug.</hi> 20. there was a parley between
+<pb facs="tcp:165720:4"/>Maj. Gen. <hi>Lambert</hi> and other Officers of ours, and Col. <hi>Straughan</hi> and others of the enemies Army: much was ſaid to convince each other, but it amounted to nothing.</p>
+            <p>Lieut. Gen. <hi>Lesleys</hi> Trumpeter came with a Letter, and Declaration of their Kings (as they call it) which He hath now ſubſcribed, but was drawn up by the Kirk; the effect was in confeſſing his Fathers and his own guilt in the late War, and promiſing for the future to doe nothing but by the advice of the Kirke and State. There is alſo a ſheet of paper, en<g ref="char:EOLhyphen"/>tituled, A Supplication of the Officers of the Army to the Committee of Eſtates, to purge the Army and Court of Malignants, without reſpect of perſons: &amp; the Committees thanks to them, and promiſe to doe it.</p>
+            <p>This day the Enemy drew their whole Ar<g ref="char:EOLhyphen"/>my Horſe and Foot out of <hi>Leith,</hi> they gave them out to be 30000. they left a Regiment of horſe and 1000 commanded Foote in it. The King was then at <hi>Dumferling</hi> with a Life<g ref="char:EOLhyphen"/>guard of Horſe, and two or three Companies of Foot: But when we expected an Engage<g ref="char:EOLhyphen"/>ment they retreated back to <hi>Leith:</hi> Our Ar<g ref="char:EOLhyphen"/>my is begun to intrench on <hi>Pencland Hils.</hi>
+            </p>
+            <p>Wedneſday <hi>Auguſt</hi> 21. a Counſel was called
+<pb facs="tcp:165720:5"/>of all the Field-officers &amp; Captains: the buſi<g ref="char:EOLhyphen"/>nes was to relate what tranſactions had been, and how the Scots having combin'd with their King, and ſcornefully ſent his Declara<g ref="char:EOLhyphen"/>tion before any thing could be offered far<g ref="char:EOLhyphen"/>ther in an amicable way to prevent the miſe<g ref="char:EOLhyphen"/>ry of what muſt follow by force, or that we ſhould doe our utmoſt endeavours to reduce them, uſing all meanes which an envading E<g ref="char:EOLhyphen"/>nemy will doe one againſt another; and as they were ſpeaking every Man his heart, whereby there might be a knowledge how it was with them, There came an Alarum that the Enemy was drawne out ſeverall waies to<g ref="char:EOLhyphen"/>wards <hi>Sterling,</hi> towards the proviſions: There was pickering neere <hi>Collington</hi> houſe with the Dragoones, and the Enemy had a Captaine of theirs ſlaine and two priſoners: The Ene<g ref="char:EOLhyphen"/>my are reduced to ſuch extremity for want of proviſions that they muſt move one way or other, and I doubt not but God will fill this hippocriticall Generation with whom we have to deale with their own waies.</p>
+            <p>This night a party of Horſe and Foot are drawne out upon a conſiderable deſigne, of which more by the next.</p>
+            <closer>
+               <dateline>Stonehill Gariſon, <date>Aug. 23 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
